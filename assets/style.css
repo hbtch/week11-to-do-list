@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+}
+.div-one {
+    text-align: center;
+}
+.task {
+    text-align: center;
+}
+div ul {
+    display: table;
+    margin: 0 auto;
+}
